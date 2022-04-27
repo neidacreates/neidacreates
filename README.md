@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning JavaScript and Python.
-🌷 Like my work? I can build your next website!
+- 🌱 I’m currently learning JavaScript and Python.
+- 🌷 Like my work? I can build your next website!
